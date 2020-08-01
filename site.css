@@ -98,19 +98,19 @@ body, html {
   }
 
   .token.red {
-    background-color: red;
+    background-color: pink;
   }
 
   .token.black {
-    background-color: black;
+    background-color: blue;
   }
 
   .red .click-target:hover {
-    background-color: red;
+    background-color: pink;
   }
 
   .black .click-target:hover {
-    background-color: black;
+    background-color: blue;
   }
 
   .full.click-target {
